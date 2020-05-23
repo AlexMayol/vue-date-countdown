@@ -1,0 +1,11 @@
+{
+  "name": "vue-timer-countdown",
+  "version": "0.1.0",
+  "description": "Basic date countdown like the one you can see in a limited-time discount deal.",
+  "author": "Alejandro Mayol",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [],
+  "license": "ISC"
+}
